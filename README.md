@@ -9,7 +9,7 @@ Projekt zestawia ze sobą metody rekonstrukcyjne (inpainting/autoenkodery) oraz 
 * [FAIR](https://github.com/liutongkun/FAIR)
 
 **Modele Rekonstrukcyjne (Zoptymalizowane pod naprawę: A2N):**
-* [RIAD](https://github.com/taikiinoue45/RIAD)
+* [RIAD](https://github.com/plutoyuxie/Reconstruction-by-inpainting-for-visual-anomaly-detection)
 * [InTra](https://github.com/jhy12/inpainting-transformer)
 * [AMI-Net](https://github.com/luow23/AMI-Net)
 
@@ -58,7 +58,7 @@ Aby otrzymać finalny raport w terminalu z projektem należy wpisać:
 
 ```bash
 python evaluate.py
-```
+
 # Przykładowy otrzymany wynik z programu:
 ```text
 ===================================================================================================================
