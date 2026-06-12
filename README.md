@@ -88,3 +88,6 @@ InTra: Normal (A2N)            | 0.6642          | 0.7089             | 1.0000
 AMI-Net: Abnormal (N2A)        | -               | -                  | -              
 AMI-Net: Normal (A2N)          | 0.2800          | 0.3322             | 1.0000         
 -------------------------------------------------------------------------------------------------------------------
+
+```
+Zdjęcia orzechów pochadzą z datasetu [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)
