@@ -53,11 +53,12 @@ Anomaly-Evaluation-Project/
     ├── RIAD/                    # Zrekonstruowane obrazy z RIAD
     ├── InTra/                   # Zrekonstruowane obrazy z InTra
     └── AMI-Net/                 # Zrekonstruowane obrazy z AMI-Net
-
+```
 Aby otrzymać finalny raport w terminalu z projektem należy wpisać:
 
 ```bash
 python evaluate.py
+```
 
 # Przykładowy otrzymany wynik z programu:
 ```text
